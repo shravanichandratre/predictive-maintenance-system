@@ -1,4 +1,4 @@
-# MaintenAI
+# Predictive Maintenance System
 
 **MaintenAI** is an intelligent predictive maintenance system designed to monitor industrial equipment in real-time. By leveraging advanced machine learning models and IoT-based sensor data, it proactively predicts potential failures, thereby reducing downtime and improving the efficiency of industrial operations. The system uses **Random Forest** and **LSTM** models for anomaly detection and integrates technologies like **MQTT**, **Kafka**, and **InfluxDB** for seamless data flow and storage.
 
